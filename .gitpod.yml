@@ -1,0 +1,6 @@
+tasks:
+- init: |
+    echo "hello" > test.txt
+    fubble
+    make
+  command: build/2048-in-terminal
