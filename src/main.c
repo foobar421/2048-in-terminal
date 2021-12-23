@@ -13,6 +13,7 @@ static sigset_t all_signals;
 static Board board;
 static Stats stats = {.auto_save = false, .game_over = false};
 
+// SOME change
 
 static void sig_handler(int __attribute__((unused))sig_no)
 {
