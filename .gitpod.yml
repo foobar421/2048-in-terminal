@@ -5,3 +5,4 @@ tasks:
       fi
       touch prebuild.txt
       make
+  - command: echo "hello"
