@@ -1,7 +1,7 @@
 tasks:
   - init: |
       if test -f "prebuild.txt"; then
-          touch incremental-prebuild.txt
+          touch incremental-prebuild2.txt
       fi
       touch prebuild.txt
       make
