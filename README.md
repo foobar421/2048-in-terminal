@@ -2,6 +2,8 @@
 
 ![screenshot](https://github.com/alewmoose/at2048/blob/master/screenshot.png)
 
+some change
+
 ## Build and install
 
 `make`
