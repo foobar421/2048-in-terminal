@@ -3,7 +3,7 @@ tasks:
       if test -f "prebuild.txt"; then
           touch incremental-prebuild2.txt
       fi
-      sleep 10
+      sleep 40
       touch prebuild.txt
       make
   - command: echo "hello there"
