@@ -4,7 +4,7 @@
 
 ## Build and install
 
-`make`
+`make` testing
 
 `sudo make install`
 
