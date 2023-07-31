@@ -1,7 +1,5 @@
 # 2048-in-terminal
 
-![screenshot](https://github.com/alewmoose/at2048/blob/master/screenshot.png)
-
 ## Build and install
 
 `make`
